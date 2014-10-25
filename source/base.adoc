@@ -1,0 +1,7 @@
+= Your New Document
+:doctype: book
+:toc: left
+:icons: font
+:source-highlighter: coderay
+
+include::content.adoc[]
